@@ -1,4 +1,4 @@
-# Solid
+# Webkanini Technologies Private Limited
 
 A landing page template.
 
